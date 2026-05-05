@@ -1,0 +1,14 @@
+# Environment variables - NEVER push these
+.env
+.env.local
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# System files
+.DS_Store
+
+# VS Code settings
+.vscode/
